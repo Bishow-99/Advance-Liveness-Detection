@@ -4,7 +4,7 @@ The main aim of liveness detection is to confirm that the biometric data comes f
 # Demo
 https://github.com/Bishow-99/Liveness-Detection/assets/80660041/72c572a6-f638-43b0-9bb1-807e9c74ca5a
 
-# How does it Work?
+# How does it Works?
 Here are the steps to find the living person in the frame:
 
 (i) Utilize Google's MediaPipe package to locate key points on a person's face.
